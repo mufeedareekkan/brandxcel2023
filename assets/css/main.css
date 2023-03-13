@@ -47,6 +47,10 @@ p {
   font-size: 14px;
 }
 
+.panel{
+  list-style: circle;
+}
+
 ul, ol {
   list-style: outside none none;
   margin: 0;
